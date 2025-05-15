@@ -34,6 +34,8 @@ I'm currently working as a student intern at **Textron India Private Limited**
 
 ## 🌐 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakesh132001)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakesh.a1311@gmail.com)
+
 
 ---
 
