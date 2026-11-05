@@ -64,21 +64,45 @@ I'm **Rakesh M A**, a Python Developer interested in building practical software
 </p>
 
 ---
-
-## 03. GitHub Analytics
+ ## `03` — GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RakeshRaki1311&theme=default" width="100%" />
+<p>A snapshot of my coding journey 🚀</p>
+
+<br/>
+
+<!-- PROFILE OVERVIEW -->
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RakeshRaki1311&theme=github_dark" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RakeshRaki1311&theme=default" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RakeshRaki1311&theme=default" width="49%" />
+<!-- ANALYTICS CARDS -->
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RakeshRaki1311&theme=github_dark" />
+
+</td>
+<td width="33%" align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RakeshRaki1311&theme=github_dark" />
+
+</tr>
+</table>
+
+<br/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/∞-KEEP%20BUILDING-0D1117?style=for-the-badge&labelColor=0D1117&color=0284C7" />
 
 </div>
 
----
+<!-- ================================================ -->
 
 ---
 
