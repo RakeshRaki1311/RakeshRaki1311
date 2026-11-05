@@ -69,10 +69,6 @@ I'm **Rakesh M A**, a Python Developer interested in building practical software
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RakeshRaki1311&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshRaki1311&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
-
 <br/><br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=RakeshRaki1311&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" />
