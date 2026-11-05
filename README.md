@@ -1,134 +1,104 @@
 <div align="center">
 
-# 👋 Hey, I'm Rakesh M A
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,35:172554,75:1D4ED8,100:06B6D4&height=230&section=header&text=RAKESH%20M%20A&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=PYTHON%20DEVELOPER%20%7C%20BACKEND%20%7C%20MACHINE%20LEARNING&descSize=14&descAlignY=58&animation=fadeIn" />
 
-### 🐍 Python Developer | Software Developer | Tech Enthusiast
-
-Building practical solutions through code, automation and technology.
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=600&lines=Building+solutions+with+Python+%F0%9F%90%8D;Turning+ideas+into+working+applications+%E2%9A%A1;Exploring+Backend+%26+Machine+Learning+%F0%9F%A4%96" alt="Typing SVG" />
+</a>
 
 <br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakesh132001)
+[![Gmail](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rakesh.a1311@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=RakeshRaki1311&style=flat-square&color=0EA5E9&label=PROFILE+VIEWS)
+
+</div>
+
+<br/>
+
+## `01` — About Me
+
+<img align="right" width="180" src="https://skillicons.dev/icons?i=python&theme=dark" />
+
+I'm **Rakesh M A**, a Python Developer interested in building practical software solutions and exploring modern technologies.
+
+- 💼 Student Intern at **Textron India Private Limited**
+- 🐍 Focused on Python development and backend technologies
+- ⚙️ Interested in APIs, automation and application development
+- 🤖 Exploring Machine Learning and Deep Learning
+- 📊 Enjoy working with data, analytics and databases
+
+<br clear="right"/>
+
+---
+
+## `02` — Technical Arsenal
+
+### ◈ Core Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" />
+</p>
+
+### ◈ Backend & Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,angular,dotnet&theme=dark" />
+<img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
+</p>
+
+### ◈ Machine Learning & Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### ◈ Databases & Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman&theme=dark" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+---
+
+## `03` — GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RakeshRaki1311&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshRaki1311&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=RakeshRaki1311&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" />
+
+</div>
+
+---
+
+## `04` — Let's Connect
+
+<div align="center">
+
+**Have an idea, opportunity or interesting project? Let's connect.**
+
 <a href="https://linkedin.com/in/rakesh132001">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;
 <a href="mailto:rakesh.a1311@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=RakeshRaki1311&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+### `while (learning) { keepBuilding(); }`
 
-</div>
-
----
-
-## 💫 About Me
-
-```python
-class Rakesh:
-    def __init__(self):
-        self.name = "Rakesh M A"
-        self.role = "Python Developer"
-        self.currently_working = "Student Intern at Textron India Private Limited"
-        self.interests = [
-            "Python Development",
-            "Backend Development",
-            "Machine Learning",
-            "Data Analytics"
-        ]
-
-    def say_hello(self):
-        print("Turning ideas into practical solutions through code!")
-
-me = Rakesh()
-me.say_hello()
-```
-
-- 🐍 Working as a **Python Developer**.
-- 💼 Currently a **Student Intern at Textron India Private Limited**.
-- 💡 Interested in backend development, machine learning and software engineering.
-- 🚀 Always exploring new technologies and improving my development skills.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
-</p>
-
-### ⚙️ Frameworks & Libraries
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,angular,dotnet,tensorflow,sklearn" />
-  <br/>
-  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
-</p>
-
-### 🗄️ Databases & Data Analytics
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-  <br/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
-
-### 🔧 Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RakeshRaki1311&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshRaki1311&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=RakeshRaki1311&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/rakesh132001">
-  <img src="https://img.shields.io/badge/LinkedIn-Rakesh%20M%20A-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:rakesh.a1311@gmail.com">
-  <img src="https://img.shields.io/badge/Email-rakesh.a1311%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-### 💬 "Code. Learn. Build. Repeat."
-
-⭐ Thanks for visiting my profile!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:09090B&height=110&section=footer" />
 
 </div>
