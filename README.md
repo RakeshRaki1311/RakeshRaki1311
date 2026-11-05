@@ -22,11 +22,11 @@
 
 I'm **Rakesh M A**, a Python Developer interested in building practical software solutions and exploring modern technologies.
 
-- 💼 Student Intern at **Textron India Private Limited**
-- 🐍 Focused on Python development and backend technologies
-- ⚙️ Interested in APIs, automation and application development
-- 🤖 Exploring Machine Learning and Deep Learning
-- 📊 Enjoy working with data, analytics and databases
+- Student Intern at **Textron India Private Limited**
+- Focused on Python development and backend technologies
+- Interested in APIs, automation and application development
+- Exploring Machine Learning and Deep Learning
+- Enjoy working with data, analytics and databases
 
 <br clear="right"/>
 
