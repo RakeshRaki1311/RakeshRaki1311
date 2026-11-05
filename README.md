@@ -65,15 +65,20 @@ I'm **Rakesh M A**, a Python Developer interested in building practical software
 
 ---
 
-## `03` — GitHub Analytics
+## 03. GitHub Analytics
 
 <div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RakeshRaki1311&theme=default" width="100%" />
+
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=RakeshRaki1311&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RakeshRaki1311&theme=default" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RakeshRaki1311&theme=default" width="49%" />
 
 </div>
+
+---
 
 ---
 
